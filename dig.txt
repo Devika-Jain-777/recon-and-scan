@@ -2,7 +2,7 @@
 ; <<>> DiG 9.20.9-1-Debian <<>> scanme.nmap.org
 ;; global options: +cmd
 ;; Got answer:
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6925
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31996
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
 
 ;; OPT PSEUDOSECTION:
@@ -11,10 +11,10 @@
 ;scanme.nmap.org.		IN	A
 
 ;; ANSWER SECTION:
-scanme.nmap.org.	3600	IN	A	45.33.32.156
+scanme.nmap.org.	355	IN	A	45.33.32.156
 
-;; Query time: 204 msec
+;; Query time: 36 msec
 ;; SERVER: 10.0.2.3#53(10.0.2.3) (UDP)
-;; WHEN: Fri Aug 15 03:12:14 EDT 2025
+;; WHEN: Fri Aug 15 03:40:08 EDT 2025
 ;; MSG SIZE  rcvd: 60
 
